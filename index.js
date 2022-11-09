@@ -1,4 +1,5 @@
 import React from 'react';
+// import {ReactInstance} from 'react-360-web';
 import {
   AppRegistry,
   StyleSheet,
